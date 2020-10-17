@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.con{
+    height: 100%;
+    width: 36%;
+    background-image: url(../img/road.jpg);
+    background-size: cover;
+    background-position: center;
+    border-right: 50px solid rgb(6, 65, 143);
+    border-left: 50px solid rgb(173, 6, 6);
+    color: white;
+    margin: 0px auto; 
+}
+
+.Alfa_Slab_One{
+    font-family: 'Alfa Slab One', sans-serif;
+    color: rgb(218, 99, 98);
+    margin: 0px;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+.Carter_One{
+    font-family: 'Carter One', sans-serif;
+    font-size: 20px;
+}
+
+.Cairo{
+    font-family: 'Cairo', sans-serif;
+    font-size: 35px;
+}
+
+.Oswald{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.Mali{
+    font-family: 'Mali', sans-serif;
+    color: rgb(255, 94, 66);
+    text-shadow: 0px 0px 5px  rgb(255, 94, 66);
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.Cookie{
+    font-family: 'Cookie', sans-serif;
+    font-size: 40px;
+}
+
+.Caveat{
+    font-family: 'Caveat', sans-serif;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.DM_Mono{
+    font-family: 'DM Mono', monospace;
+    text-align: right;
+}
+
+.ferrari{
+    color: red;
+}
